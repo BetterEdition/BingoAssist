@@ -1,0 +1,7 @@
+{
+  "name": "bingoAssist",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
